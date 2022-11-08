@@ -1,9 +1,6 @@
-
-
 {
-    "name": "server2022",
+  "name": "server2022",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,6 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
-  }
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmsKa2022/work-2-VIP-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SmsKa2022/work-2-VIP-server/issues"
+  },
+  "homepage": "https://github.com/SmsKa2022/work-2-VIP-server#readme",
+  "description": ""
 }
